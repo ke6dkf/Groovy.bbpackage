@@ -102,6 +102,14 @@
       <string>"</string>
       <key>Close Strings 1</key>
       <string>"</string>
+      <key>Open Strings 2</key>
+      <string>'</string>
+      <key>Close Strings 2</key>
+      <string>'</string>
+      <key>Open Strings 3</key>
+      <string>'''</string>
+      <key>Close Strings 3</key>
+      <string>'''</string>
       <key>Escape Char in Strings 1</key>
       <string>\</string>
       <key>End-of-line Ends Strings 1</key>
